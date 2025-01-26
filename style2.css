@@ -1,0 +1,53 @@
+body {
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+.container {
+    background-size: cover;
+    background-image: url(jjj.jpg);
+    width: 100%;
+    height: 100vh;
+    color: white;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.profilebox{
+    background-color: rgb(72, 64, 64);
+    padding: 20px;
+    /* color: black;  */
+    border-radius: 20px;
+}
+.profilephoto{
+
+    border-radius: 30px;
+    width: 150px;
+    height: 150px;
+}
+
+.image{
+    color:white
+}
+
+.belowprofilecard{
+    padding: 15px;
+    margin-top: -15px;
+    background-color:beige;
+    border-radius: 15px;
+}
+
+.b1{
+    /* color:black; */
+    padding: 2px 20px; 
+    background-color:beige;
+}
+
+.b2{
+    /* color:black; */
+    padding:2px 15px;
+    background-color: beige;
+}
